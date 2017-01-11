@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "763550878924",
+    "project_id": "firebase-testlog"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763550878924:android:1f94f12969f15161",
+        "android_client_info": {
+          "package_name": "com.example.casa.testlog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763550878924-k3rin4okjc6op3dpfq2pfmbb1mefsnsc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.casa.testlog",
+            "certificate_hash": "6AE7CCE786FEFB27619B7666CB2093ED8DFF057C"
+          }
+        },
+        {
+          "client_id": "763550878924-r00ie9mfrn5eknfsh4s2051i2ornv5pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo-zzHsdmLJ3ePaAMpjoD4L7siwLqw9Gk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
